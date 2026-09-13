@@ -1,3 +1,5 @@
+> Development continues at https://github.com/aa22396584/resume-skills because this GitHub account is currently restricted for anonymous visitors.
+
 # portable-resume-skills
 
 **Development, Issues & Pull Requests:**  
